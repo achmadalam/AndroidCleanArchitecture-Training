@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">ACATraining</string>
     <string name="action_settings">Settings</string>
+    <string name="label_email">Email:</string>
+    <string name="label_followers">Followers:</string>
+    <string name="label_description">Description</string>
+    <string name="cd_image_user_picture">User Profile Picture</string>
+    <string name="label_retry">Retry</string>
+    <string name="label_load_sample_data">Load Sample Data</string>
+    <string name="cd_logo">This app logo</string>
 </resources>
